@@ -24,7 +24,7 @@ VCC > 3.3V / 5V
 GND > GND
 Step 2:
 you'll need arduino IDE for this one
-compile the file "client.ino" to your esp32
+compile the file "esp32.ino" to your esp32
 Step 3:
 now, copy the User_Setup.h file then open up your Arduino folder (usually located at "C:\Users\[YOUR_USERNAME\Documents\Arduino"
  and click on "libraries" then click on "TFT_eSPI" then paste the file, click on "Replace file in destination" and

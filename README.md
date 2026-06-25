@@ -32,3 +32,5 @@ now, copy the User_Setup.h file then open up your Arduino folder (usually locate
 remember to copy and not manualy write the command.
 Step 4:
 Now that everything is running your mini monitor should be working! 
+
+tip:set your dpi to 175% for better visibility
